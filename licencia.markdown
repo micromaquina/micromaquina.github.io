@@ -18,3 +18,5 @@ El código mostrado en esta web (si hay, o cuando lo haya) está distribuido con
 
 # Tema
 El tema y estilo de este sitio es un trabajo derivado de [Clean Blog Jekyll de SartBootstrap, LLC](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll). El tema original se distribuye bajo licencia MIT, que se puede consultar tanto en el enlace anterior en este párrafo, como en el [repositorio de la web de Micromáquina en GitHub](https://github.com/micromaquina/micromaquina.github.io).
+
+Las modificaciones (funcionamiento de las categorías, traducción al Castellano, eliminación de Google Ads, etc.) se distribuyen bajo la misma licencia.
