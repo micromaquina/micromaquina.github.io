@@ -18,7 +18,11 @@ Pese a todo, debes saber que:
 - Este sitio utiliza Javascript. Si lo desactivas, funcionará mal.
 - El tema utiliza Bootstrap, que es una tecnología de Twitter. Aún así, no he detectado ninguna comunicación con Twitter.
 
-Por otro lado, al usar los mecanismos de comunicación de terceros que puedes encontrar mencionados a lo largo de este blog, como la cuenta de [twitter de Micromáquina](https://twitter.com/micro_maquina), no estás utilizando servicios de Micromáquina: consulta las respectivas políticas de privacidad.
+Por otro lado, al usar los mecanismos de comunicación de terceros que puedes encontrar mencionados a lo largo de este blog, como la cuenta de [twitter de Micromáquina](https://twitter.com/micro_maquina), estás utilizando servicios de terceros: consulta las respectivas políticas de privacidad.
 
-Por último, si me envías un correo a [micromaquina@gvisoc.com](mailto:micromaquina@gvisoc.com), me comprometo a no usar tu dirección de correo electrónico para ningún otro fin que poder contestarte, y ten en cuenta que tu dirección de correo y cualquier otro dato que envíes, quedarán almacenados en mi proveedor de correo electrónico. Si no estás cómodo con esto, no me envíes ningún correo, o hazlo mediante servicios de alias de correo como [Simple Login](https://simplelogin.io).
+Por último, si me envías un correo a [micromaquina@gvisoc.com](mailto:micromaquina@gvisoc.com):
+- me comprometo a no usar tu dirección de correo electrónico para ningún otro fin que poder contestarte, y 
+- ten en cuenta que tu dirección de correo y cualquier otro dato que envíes, quedarán almacenados en mi proveedor de correo electrónico. 
+
+Si no estás cómodo con esto, no me envíes ningún correo, o hazlo mediante servicios de alias de correo como [Simple Login](https://simplelogin.io) para proteger tu información.
 
