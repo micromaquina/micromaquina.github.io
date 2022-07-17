@@ -1,0 +1,33 @@
+title:              Micromáquina
+email:              micromaquina@gvisoc.com
+description: >- # this means to ignore newlines until next yaml tag
+  <p>Tecnología y cómo te afecta en el día a día.</p>
+
+  Próximamente, también en formato podcast.<br />
+author:             Gabriel Viso Carrera
+baseurl:            ""
+url:                "https://micromaquina.com"
+
+# Social Profiles
+twitter_username:   micro_maquina
+github_username:    micromaquina
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
