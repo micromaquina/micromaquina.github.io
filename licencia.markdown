@@ -15,6 +15,11 @@ Este sitio usa [Jekyll](https://jekyllrb.com/). Puedes consultar la licencia de 
 ## Software creado por Micromáquina
 El código mostrado en esta web, si lo hay, o cuando lo haya, está distribuido con alguna licencia de software libre. En su caso, consulta el artículo correspondiente para acceder al código en concreto, y a su liencia.
 
+# Imágenes
+Algunas de las imágenes de las cabeceras de las páginas forman parte del tema original. Consulta su licencia en el apartado siguiente. 
+
+El resto, particularmente las que puedes encontrar en el cuerpo de los artículos, son material propio salvo que se diga lo contrario, y su licencia es la misma que aplica al resto del contenido.
+
 # Tema
 El tema y estilo de este sitio es un trabajo derivado de [Clean Blog Jekyll de SartBootstrap, LLC](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll). El tema original se distribuye bajo licencia MIT, que se puede consultar tanto en el enlace anterior en este párrafo, como en el [repositorio de la web de Micromáquina en GitHub](https://github.com/micromaquina/micromaquina.github.io).
 
