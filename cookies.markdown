@@ -13,7 +13,7 @@ El alojamiento es un repositorio de [GitHub pages (ojo: enlace en inglés)](http
 El *tema* de la web, esto es, el estilo visual y el comportamiento en cierta medida, es un trabajo derivado de [Clean Blog Jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll), de [StartBoostrap](https://github.com/StartBootstrap/). Dicho tema de partida ha sido modificado para eliminar tecnologías de seguimiento de Google, distintos programas vinculados a tecnologías de terceros para el envío de mensajes a través de formularios, y cualquier uso de cookies de rastreo que estuviese siendo utilizado.
 
 Pese a todo, debes saber que:
-- Las fuentes tipográficas se cargan directamente desde sus respectivos proveedores, Google y FontAwesome.
+- Las fuentes tipográficas se cargan directamente desde sus respectivos proveedores, [Google Fonts](https://developers.google.com/fonts) y [FontAwesome](https://fontawesome.com/).
 - Este sitio utiliza Javascript. Si lo desactivas, funcionará mal.
 - El tema utiliza Bootstrap, que es una tecnología de Twitter. Aún así, no se ha detectado ninguna comunicación con Twitter.
 
