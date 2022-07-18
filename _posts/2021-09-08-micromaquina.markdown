@@ -7,7 +7,7 @@ background: '/img/bg-post.jpg'
 categories:
     - micromaquina
 ---
-**Micromáquina** es un término que alude al diseño interno de los microprocesadores. Describe cómo funciona internamente un procesador; por ejemplo, cuáles de sus componentes internos entran en juego en cada instrucción. Es un término que me gusta porque, de alguna forma, indica que vamos a mirar bajo la carcasa de las cosas para ver cómo están hechas por dentro.
+**Micromáquina** es un término que alude al diseño interno de los microprocesadores. Describe cómo funciona internamente un procesador; por ejemplo, cuáles de sus componentes internos entran en juego en cada instrucción. Es un término que me gusta porque, de alguna forma, indica que vamos a mirar *bajo la carcasa* de las cosas para ver cómo están hechas por dentro.
 
 Esta web, que empieza hoy, y que pronto tendrá un podcast, trata de eso: discutir cómo funcionan ciertas cosas relacionadas con ordenadores, internet y mucho del software que usamos, y cómo todo eso nos afecta en el día a día.
 
