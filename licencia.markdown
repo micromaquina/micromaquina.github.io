@@ -3,7 +3,6 @@ layout: page
 title: Licencia
 description: Del contenido y del software propio y de terceros
 background: '/img/bg-default.jpg'
-form: false
 ---
 # Contenido
 Todo el contenido de Micromáquina se distribuye bajo licencia Creative Commons [Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).

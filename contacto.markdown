@@ -3,7 +3,6 @@ layout: page
 title: Contacto
 description: Envíame tus comentarios, dudas y sugerencias.
 background: '/img/bg-contact.jpg'
-form: false
 ---
 Por el momento, Micromáquina no tiene habilitado un sistema de comentarios. 
 
