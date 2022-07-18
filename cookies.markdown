@@ -15,7 +15,7 @@ El *tema* de la web, esto es, el estilo visual y el comportamiento en cierta med
 Pese a todo, debes saber que:
 - Las fuentes tipográficas se cargan directamente desde sus respectivos proveedores, Google y FontAwesome.
 - Este sitio utiliza Javascript. Si lo desactivas, funcionará mal.
-- El tema utiliza Bootstrap, que es una tecnología de Twitter. Aún así, no he detectado ninguna comunicación con Twitter.
+- El tema utiliza Bootstrap, que es una tecnología de Twitter. Aún así, no se ha detectado ninguna comunicación con Twitter.
 
 Por otro lado, al usar los mecanismos de comunicación de terceros que puedes encontrar mencionados a lo largo de este blog, como la cuenta de [twitter de Micromáquina](https://twitter.com/micro_maquina), estás utilizando servicios de terceros: consulta las respectivas políticas de privacidad.
 
