@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until next yaml tag
   Próximamente, también en formato podcast.<br />
 author:             Gabriel Viso Carrera
 baseurl:            ""
-url:                "https://micromaquina.com"
+url:                "https://www.micromaquina.com"
 
 # Social Profiles
 twitter_username:   micro_maquina
