@@ -6,6 +6,7 @@ date: 2021-09-20 10:45:13 +1000
 categories:
   - esenciales
 background: '/img/bg-default.jpg'
+image: '/img/bg-default.jpg'
 ---
 # Hardware y Software 
 **Hardware** es una palabra que, traducida literalmente del inglés, significa “mercancía dura”. Visto así, sin contexto, no tiene mucho sentido, pero cuando pensamos en un ordenador, se refiere a todo aquello que se puede tocar y, por lo tanto, engloba a todos los componentes físicos: pantallas, teclados, ratones, discos internos y chips de distintos tipos. Son los componentes que podemos encontrar en una tienda especializada para montar un ordenador a medida, como memoria, microprocesador, tarjeta gráfica y placa base, y de los que seguramente ya habremos oído hablar. En otros artículos veremos qué hacen y cómo se conectan todos estos componentes, y algunos más.

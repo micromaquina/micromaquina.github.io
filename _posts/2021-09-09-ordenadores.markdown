@@ -6,6 +6,7 @@ date: 2021-09-09 10:45:13 +1000
 categories:
   - esenciales
 background: '/img/bg-default.jpg'
+image: '/img/bg-default.jpg'
 ---
 En realidad, un ordenador es una máquina de procesar de información. Sólo es capaz de hacer, muy bien y muy rápido, lo siguiente:
 

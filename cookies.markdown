@@ -3,6 +3,7 @@ layout: page
 title: Cookies y Privacidad
 description: Lo que debes saber al respecto
 background: '/img/bg-default.jpg'
+image: '/img/bg-default.jpg'
 ---
 Este sitio no usa cookies, ni propias ni de terceros.
 
