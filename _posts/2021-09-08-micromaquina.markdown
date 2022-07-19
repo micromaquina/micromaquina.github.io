@@ -4,6 +4,7 @@ title: "Micromáquina"
 subtitle: "Qué es esto, y qué esperar"
 date: 2021-09-08 10:45:13 +1000
 background: '/img/bg-post.jpg'
+image: '/img/bg-post.jpg'
 categories:
     - micromaquina
 ---
