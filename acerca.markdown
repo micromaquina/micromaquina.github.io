@@ -3,6 +3,7 @@ layout: page
 title: Acerca de Micromáquina
 description: ¿Qué es todo esto?
 background: '/img/bg-about.jpg'
+image: '/img/bg-about.jpg'
 ---
 # Esta web -- Micromáquina 
 Micromáquina es un sitio de divulgación tecnológica para todos los públicos.

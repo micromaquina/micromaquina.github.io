@@ -3,6 +3,7 @@ layout: page
 permalink: /categorias/
 title: Explorar todas las categorías
 background: '/img/bg-about.jpg'
+image: '/img/bg-about.jpg'
 ---
 
 
