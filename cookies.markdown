@@ -5,11 +5,13 @@ description: Lo que debes saber al respecto
 background: '/img/bg-default.jpg'
 image: '/img/bg-default.jpg'
 ---
+(*Nota: todos los enlaces de esta página llevan a páginas en inglés, excepto el de la cuenta de [twitter de Micromáquina](https://twitter.com/micro_maquina).*)
+
 Este sitio no usa cookies, ni propias ni de terceros.
 
 Micromáquina usa un gestor de contenidos estático llamado [Jekyll](https://jekyllrb.com/). Esto quiere decir que no existe una base de datos que pueda registrar tus visitas.
 
-El alojamiento es un repositorio de [GitHub pages (ojo: enlace en inglés)](https://pages.github.com/) de [micromáquina en GitHub](https://github.com/micromaquina). GitHub no necesita usar cookies para proporcionar dicho alojamiento. 
+El alojamiento es un repositorio de [GitHub pages](https://pages.github.com/). GitHub no necesita usar cookies para proporcionar dicho alojamiento. 
 
 El *tema* de la web, esto es, el estilo visual y el comportamiento en cierta medida, es un trabajo derivado de [Clean Blog Jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll), de [StartBoostrap](https://github.com/StartBootstrap/). Dicho tema de partida ha sido modificado para eliminar tecnologías de seguimiento de Google, distintos programas vinculados a tecnologías de terceros para el envío de mensajes a través de formularios, y cualquier uso de cookies de rastreo que estuviese siendo utilizado.
 
