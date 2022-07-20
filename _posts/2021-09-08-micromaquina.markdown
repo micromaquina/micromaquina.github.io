@@ -20,4 +20,4 @@ Aquí podrás encontrar:
 
 Espero que te guste lo que esta por llegar; en cualquier caso, ¡gracias por leer hasta aquí!
 
-*Puedes estar al tanto de todo lo que ocurre en Micromáquina siguiendo [su cuenta de twitter](https://twitter.com/micro_maquina)*.
+*Puedes estar al tanto de todo lo que ocurre en Micromáquina siguiendo [su cuenta de twitter](https://twitter.com/micro_maquina "Cuenta de Twitter de Micromáquina")*.

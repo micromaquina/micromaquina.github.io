@@ -12,9 +12,9 @@ Micromáquina es un sitio de divulgación tecnológica para todos los públicos.
 - Micromáquina usa un lenguje que podrás entender, material de apoyo y ejemplos prácticos para ponerte al día en las cuestiones más básicas.
 - Cualquier persona con conocimientos tan esenciales como aritmética y lógica básicas podrá abrirse camino en los contenidos de Micromáquina.
 
-Micromáquina también está en [twitter](https://twitter.com/micro_maquina).
+Micromáquina también está en [twitter](https://twitter.com/micro_maquina "Cuenta de Twitter de Micromáquina").
 
 # El autor -- Gabriel Viso Carrera 
 De momento, Micromáquina tiene solamente un autor, que es Gabriel Viso Carrera. Gabriel es Ingeniero de Telecomunicación y vive en Australia.
 
-Conecta con Gabriel en [twitter](https://twitter.com/gvisoc).
+Conecta con Gabriel en [twitter](https://twitter.com/gvisoc "Cuenta de Twitter personal de Gabriel Viso Carrera").

@@ -26,7 +26,7 @@ Cuando enciendes un ordenador, éste se quedará esperando a que le indiques qu�
 
 Los datos de entrada para ese proceso consisten en la aplicación que quieres abrir, el proceso consiste en cargarla en memoria y ejecutarla, y los datos de salida suelen ser una pista de que se ha ejecutado o se está ejecutando. En su forma más sofisticada, eso consiste en mostrar una ventana gráfica completa, con menús, botones y toda una serie de controles y gráficos. Pero, en esencia, lo que ha ocurrido es lo que hemos explicado arriba: introducir unos datos de entrada, procesarlos, y producir unos datos de salida.
 
-Si la aplicación que has abierto es un procesador de textos, como [Microsoft Word](https://es.wikipedia.org/wiki/Microsoft_Word), [LibreOffice Writer](https://es.libreoffice.org/descubre/writer/) o [Apple Pages](https://www.apple.com/es/pages/), éste va a quedarse esperando, de nuevo, por datos de entrada. En este caso, esos datos son texto, los procesos van a ser la serie de operaciones de formato y maquetación que queramos aplicar, y los datos de salida consistirán en el documento que vemos tomar forma ante nosotros. 
+Si la aplicación que has abierto es un procesador de textos, como [Microsoft Word](https://es.wikipedia.org/wiki/Microsoft_Word "Página de Microsoft Word en Wikipedia"), [LibreOffice Writer](https://es.libreoffice.org/descubre/writer/ "Página web de Libreoffice Writer") o [Apple Pages](https://www.apple.com/es/pages/ "Página web de Apple Pages"), éste va a quedarse esperando, de nuevo, por datos de entrada. En este caso, esos datos son texto, los procesos van a ser la serie de operaciones de formato y maquetación que queramos aplicar, y los datos de salida consistirán en el documento que vemos tomar forma ante nosotros. 
 
 {% include image.html url="/img/posts/word.png" description="Un procesador de textos (Microsoft Word)" %}
 
@@ -34,7 +34,7 @@ Con una hoja de cálculo, o con cualquier otra aplicación de productividad ofim
 
 Para terminar con los ejemplos veamos uno mucho más complejo por la variedad de datos de salida que produce, y la forma que toman: un videojuego sencillo. En este tipo de programas, los datos de entrada, los procesos y los datos de salida serán mucho más numerosos y diversos, en forma de gráficos, sonido, acciones sobre controladores de videojuegos (🎮) y un largo etcétera.
 
-“[Pac-Man](https://es.wikipedia.org/wiki/Pac-Man)” o, como se llamó en España, come-cocos, tiene como protagonista [a una pelota amarilla que debe comerse todos los objetos de un laberinto](https://en.wikipedia.org/wiki/File:Pac-man.png), evitando a cuatro fantasmas. Si el protagonista se come un elemento especial, que por aquel entonces llamábamos “vitamina”, las tornas se giran durante unos segundos y podremos “comernos” a los fantasmas, que ahora escapan, para enviarlos a una cárcel temporal. 
+“[Pac-Man](https://es.wikipedia.org/wiki/Pac-Man "Página de Pac-Man en la Wikipedia")” o, como se llamó en España, come-cocos, tiene como protagonista [a una pelota amarilla que debe comerse todos los objetos de un laberinto](https://en.wikipedia.org/wiki/File:Pac-man.png "Imagen de juego de Pac-Man"), evitando a cuatro fantasmas. Si el protagonista se come un elemento especial, que por aquel entonces llamábamos “vitamina”, las tornas se giran durante unos segundos y podremos “comernos” a los fantasmas, que ahora escapan, para enviarlos a una cárcel temporal. 
 
 Los datos de entrada vienen dados por: 
 
