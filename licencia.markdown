@@ -8,7 +8,7 @@ image: '/img/bg-default.jpg'
 # Contenido
 Todo el contenido de Micromáquina se distribuye bajo licencia Creative Commons [Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES "Página web informativa acerca de la licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional").
 
-Bajo el [repositorio de la web de Micromáquina en GitHub](https://github.com/micromaquina/micromaquina.github.io "Repositorio del código fuente de esta página en GitHub"), hay una copia completa de la licencia original en inglés. A partir del enlace anterior en este párrafo, se puede encontrar una copia del texto completo en español.
+Bajo el [repositorio de la web de Micromáquina en GitHub](https://github.com/micromaquina/micromaquina.github.io "Repositorio del código fuente de esta página en GitHub") hay una copia completa de la licencia original, en inglés. 
 
 # Software 
 Este sitio usa [Jekyll](https://jekyllrb.com/ "Página web de Jekyll (en inglés)"). Puedes consultar la licencia de Jekyll [en su repositorio en GitHub](https://github.com/jekyll/jekyll "Repositorio del código fuente de Jekyll en GitHub (en inglés)").
