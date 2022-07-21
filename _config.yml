@@ -2,8 +2,6 @@ title:              Micromáquina
 email:              micromaquina@gvisoc.com
 description: >- # this means to ignore newlines until next yaml tag
   <p>Tecnología bajo la carcasa.</p>
-
-  Próximamente, también en formato podcast.<br />
 author:             Gabriel Viso Carrera
 baseurl:            ""
 url:                "https://www.micromaquina.com"
