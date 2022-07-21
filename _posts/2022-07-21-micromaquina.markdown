@@ -2,7 +2,7 @@
 layout: post
 title: "Micromáquina"
 subtitle: "Qué es esto, y qué esperar"
-date: 2022-07-21 15:45:00 +1000
+date: 2022-07-21 17:45:00 +1000
 background: '/img/bg-post.jpg'
 image: '/img/bg-post.jpg'
 categories:
